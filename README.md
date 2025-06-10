@@ -19,9 +19,8 @@ This project is built as a **Skill Lab submission** and is ideal for learning ho
 ---
 
 ## 📸 App Screenshots
+![SwiftPay Screens](./swiftpay_screenshots_preview.png)
 
-
-![Screenshot 2025-06-10 113824](https://github.com/user-attachments/assets/dfd4d10c-2c9a-4043-899f-8877b740e238)
 
 ---
 
